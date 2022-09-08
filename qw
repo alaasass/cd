@@ -1,0 +1,7 @@
+var output = await gddirect.getMediaLink(gdriveid);
+
+/*Output==>
+{
+    "src": "https://upbam.org/gp2zs5ys44x1/El_juego_de_las_llaves_2_-_8.mp4.html",
+}
+*/
